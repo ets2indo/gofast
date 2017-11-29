@@ -1,0 +1,2 @@
+# gofast
+safelink
